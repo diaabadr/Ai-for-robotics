@@ -1,0 +1,11 @@
+packages used:
+sklearn
+numpy
+pandas
+
+Problem Definition:
+trying to make a model to predict charge value based on some variables in the dataset
+
+Comparison between the results you get using Scikit-learn and
+Python form scratch implementation:
+There is so much difference. the model is so good with scikit-learn but is not good with predictions in my implementation
